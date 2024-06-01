@@ -1,1 +1,1 @@
-# JavaScript-Projects
+# Full Stack Web Projects
